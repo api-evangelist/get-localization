@@ -1,0 +1,78 @@
+{
+    "name": "Get Localization",
+    "description": "Get Localization provides professional translation, translation management system and crowdsourcing services.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/599-get-localization.jpg",
+    "tags": [
+        "api provider",
+        "crowdsource",
+        "crowdsourcing",
+        "have api",
+        "human",
+        "languages",
+        "social",
+        "translations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/get-localization\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Get Localization",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/599-get-localization.jpg",
+            "humanURL": "http:\/\/www.getlocalization.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/get-localization-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.getlocalization.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.getlocalization.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.getlocalization.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/get-localization"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/get-localization"
+        },
+        {
+            "type": "Email",
+            "url": "support@getlocalization.com"
+        },
+        {
+            "type": "Github",
+            "url": "http:\/\/github.com\/getlocalization"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.getlocalization.com\/pricing\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.getlocalization.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/getlocalization"
+        }
+    ]
+}
